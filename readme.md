@@ -1,4 +1,4 @@
-#Arif AChmad Fauzy
-##Latihan JavaScript OOP
+# Arif Achmad Fauzy **X PPLG !**
+### Praktek cihuy
 
-###cuma praktek ini mah bukan apa-apa
+## **OOP JAVASCRIPT**
